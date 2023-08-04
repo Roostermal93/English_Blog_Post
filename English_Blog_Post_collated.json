@@ -8,14 +8,14 @@
             "collectionId": "English",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/English/English_Blog_Post/730267b3-1c7d-4e14-b168-b733a9d3954e/730267b3-1c7d-4e14-b168-b733a9d3954e_en_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/English/730267b3-1c7d-4e14-b168-b733a9d3954e_En_Male.mp4"
         },
         {
             "id": "c6eb1706-bdb8-4a7d-9b94-81ae3fcd404a",
             "collectionId": "English",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/English/English_Blog_Post/c6eb1706-bdb8-4a7d-9b94-81ae3fcd404a/c6eb1706-bdb8-4a7d-9b94-81ae3fcd404a_en_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/English/c6eb1706-bdb8-4a7d-9b94-81ae3fcd404a_En_Female.mp4"
         }
     ]
 }
